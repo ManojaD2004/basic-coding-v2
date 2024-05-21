@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.macha": "wat",
+    "stdio.h": "c"
+  }
+}
